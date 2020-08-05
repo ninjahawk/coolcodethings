@@ -6,6 +6,8 @@ Type "help", "copyright", "credits" or "license()" for more information.
 #as the button is repeatedly pressed. Not much use practically,
 #except for maybe getting on your computer teacher's nerves. 
 
+Credit = Vibemaster
+
 >>> from tkinter import *
 >>> from tkinter import Button
 >>> from tkinter import Tk, TOP
