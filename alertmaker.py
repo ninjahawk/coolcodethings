@@ -5,7 +5,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 #This program will make an alert appear 
 #on screen when the button is pressed.
 
-Credit = Nathan B Langley
+Credit = Vibemaster
 
 >>> from tkinter import *
 >>> from tkinter import messagebox
