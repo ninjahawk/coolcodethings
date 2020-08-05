@@ -8,7 +8,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 #about part of no class. This is a simple 
 #alertmaker. 
 
-Credit = Nathan B Langley
+Credit = Vibemaster
 
 from tkinter import messagebox
 from tkinter import Button
